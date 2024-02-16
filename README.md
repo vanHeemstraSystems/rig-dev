@@ -1,7 +1,7 @@
 rig-dev
 # Rig.Dev
 
-Based on "rig.dev" at https://rig.dev
+Based on "rig.dev - The application platform for Kubernetes" at https://rig.dev
 
 Based on "S3:E1- Rig.dev with Benjamin Nørgaard" at https://www.youtube.com/watch?v=3ukBaWwK94g
 
