@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+rig-dev
+# Rig.Dev
 
-Based on "ABC" at https://www.abc.com/
+Based on "rig.dev" at https://rig.dev
+
+Based on "S3:E1- Rig.dev with Benjamin Nørgaard" at https://www.youtube.com/watch?v=3ukBaWwK94g
 
 ## 100 - Introduction
 
