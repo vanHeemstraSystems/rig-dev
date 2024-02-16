@@ -7,6 +7,8 @@ Based on "RigDev Blog" at https://rig.dev/blog
 
 Based on "S3:E1- Rig.dev with Benjamin Nørgaard" at https://www.youtube.com/watch?v=3ukBaWwK94g
 
+Based on "Setup Guide" at https://docs.rig.dev/operator-manual/setup-guide
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
